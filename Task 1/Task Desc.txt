@@ -1,0 +1,1 @@
+This task to predict the percentage of a student based on number of study hours
